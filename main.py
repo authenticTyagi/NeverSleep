@@ -59,8 +59,8 @@ def main():
 
 		# Important Message
 		print("-------------------------------------------------------------------------------------")
-		print("Press & Hold 'Q' to terminate the program anytime and keep the catured screenshots.")
-		print("Press & Hold 'D' to terminate the program anytime and delete the captured screenshots.")
+		print("Press & Hold 'Q' to terminate the program anytime and keep the captured screenshots")
+		print("Press & Hold 'D' to terminate the program anytime and delete the captured screenshots")
 		print("-------------------------------------------------------------------------------------\n")
 
 		# To check whether user agrees to our conditions
